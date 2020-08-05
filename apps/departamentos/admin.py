@@ -3,5 +3,3 @@ from .models import Departamentos
 
 
 admin.site.register(Departamentos)
-
-# Register your models here.
